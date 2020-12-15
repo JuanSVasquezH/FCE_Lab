@@ -35,6 +35,7 @@
 1.1 Objetivo General
 
 ●	Analizar y comprender mediante la simulación la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+
 1.2 Objetivos Específicos
 
 ●	Comparar datos obtenidos en la simulación y datos obtenidos mediante cálculos medidos y calculados.
