@@ -43,16 +43,16 @@
 ●	Demostrar la aplicación de las leyes Kirchhoff en el circuito simulaciones y recopilación de datos.
 3.	Marco Teórico 
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/lk.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/lk.png)
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/ley1k.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/ley1k.png)
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/ley2k.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/ley2k.png)
 
 
 4.	Diagramas 
  
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/11.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/11.png)
  
 Figura N.º 1: Diagrama de implementación del circuito eléctrico 
 
@@ -60,7 +60,7 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
 
 5.	Lista De Componentes 
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/descripcion.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/descripcion.png)
 
 	
   5.1 	Explicación
@@ -85,19 +85,19 @@ Figura N.º 3: Implementación de componentes para el circuito a implementar
 
     4.	Luego dar clic en cada elemento para cambiar su valor, el cual dará un valor aproximado al valor real de cada elemento, repetimos este proceso para cada elemento del circuito a implementar.
   
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/2.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/2.png)
 
 Figura N.º 4: Configuración de cada elemento del circuito
 
      5.	Ya terminado de cambiar todos los elementos al valor que se desee medir, cerramos el circuito.
   
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/3.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/3.png)
 
 Figura N.ª 5: Circuito Implementado 
 
      6.	Con la ayuda de un multímetro, empezamos a unir los terminales en cada elemento, para la recopilación de datos.
    
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/4.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/4.png)
 
 Figura N.º 6: Toma de datos mediante el Multímetro 
 
@@ -109,15 +109,15 @@ Figura N.º 6: Toma de datos mediante el Multímetro
 
 8.	Tabulación de Datos
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/t1.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/t1.png)
 
 Tabla 1: Resultados obtenidos de voltaje y corriente en cada elemento del circuito.
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/t2.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/t2.png)
 
 Tabla 2: Verificación de la LVK
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/t3.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/t3.png)
 
 Tabla 3: Verificación la LCK
 
@@ -127,15 +127,15 @@ Obtención de Datos
  
 - Calculo de voltaje mediante Ley de Ohm
  
- ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/p1.png)
+ ![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/p1.png)
  
 - Calculo de corriente de cada elemento 
  
- ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/p2.png)
+ ![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/p2.png)
  
 - Calculo de margen de Error de Voltaje 
  
- ![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/p3.png)
+ ![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/p3.png)
  
 - Calculo de margen de Error de Corriente 
  
@@ -174,22 +174,22 @@ Obtención de Datos
 
 -	Simulador DCACLab
  
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a1.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/a1.png)
 
 Figura. 1 Circuito a implementar DCACLAB
  
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a2.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/a2.png)
 
 Figura. 2 Simulación de corriente R1
  
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a3.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/a3.png)
 
 Figura. 3 Corriente Fuente
  
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a4.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/a4.png)
 
 Figura. 4 Circuito a implementar Tinkercad
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/a5.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/a5.png)
 
 Figura. 5 Simulación de voltaje R1
