@@ -8,24 +8,24 @@
 
                                     PERIODO         	                :       Noviembre 2020 – Abril 2021
 
-                                    ASIGNATURA     	                :        Fundamentos de Circuitos Eléctricos 
+                                    ASIGNATURA     	                :       Fundamentos de Circuitos Eléctricos 
 
                                     TEMA	                        : 	Informe de laboratorios
  
-                                    NOMBRES       	          	:           Freddy Stalin Cárdenas Carrera 
-					                                            Juan Sebastián Vásquez Hurtado 
+                                    NOMBRES       	          	:       Freddy Stalin Cárdenas Carrera 
+					                                        Juan Sebastián Vásquez Hurtado 
 
-                                    NIVEL-PARALELO                      :            Segundo
+                                    NIVEL-PARALELO                      :       Segundo
 
-                                    DOCENTE       	 	        :           Ing. Darwin Alulema MSc.
+                                    DOCENTE       	 	        :       Ing. Darwin Alulema MSc.
 
-                                    FECHA DE ENTREGA                    :       	15/12/2020
+                                    FECHA DE ENTREGA                    :       15/12/2020
 
                                     NRC 				:	4872
  
-                                                                      SANGOLQUI - ECUADOR
+                                                             SANGOLQUI - ECUADOR
 
-                                                                              2020
+                                                                    2020
 
 
 
@@ -73,7 +73,7 @@ El presente diagrama se lo realizó en las prácticas a partir de previos conoci
        2.	Pulsar el botón iniciar y llenar los espacios en blanco e sesión con cualquier correo electrónico de su preferencia 
        
 
-![](https://github.com/JuanSVasquezH/Imagen-ley1kirchhoff/blob/main/x/iniciosesion.png)
+![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/iniciosesion.png)
 
   Figura N.º 2: Inicio de sesión DCACLAB
 
