@@ -13,7 +13,7 @@
                                     TEMA	                        : 	Informe de laboratorios
  
                                     NOMBRES       	          	:       Freddy Stalin Cárdenas Carrera 
-					                                        Juan Sebastián Vásquez Hurtado 
+					                                  Juan Sebastián Vásquez Hurtado 
 
                                     NIVEL-PARALELO                      :       Segundo
 
@@ -129,6 +129,7 @@ Obtención de Datos
  
  ![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/p1.png)
  
+ 
 - Calculo de corriente de cada elemento 
  
  ![](https://github.com/JuanSVasquezH/FCE_Lab/blob/main/x/p2.png)
@@ -170,6 +171,7 @@ Obtención de Datos
 13.	Anexo
 	
   Link diagrama del circuito:
+  
 	https://lucid.app/lucidchart/invitations/accept/d9bc4cff-021a-4851-98c8-172a46bf89a8
 
 -	Simulador DCACLab
